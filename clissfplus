@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+require_relative 'prompt'
+require_relative 'read'
+
+module Run
+    Read
+end
+
+Run
+
+    
